@@ -6,6 +6,11 @@
             <activity/>
         </v-col>
         <v-spacer/>
+        <v-col class="text-center me"
+               cols="4">
+            <i class="fab fa-github"></i> View on GitHub
+        </v-col>
+        <v-spacer/>
         <v-col class="text-right me"
                 cols="4">
             {{ new Date().getFullYear() }} - Made with <i class="fas fa-heart fa-beat mr-1 ml-1 heart"></i> by Jeferson Urbieta.
