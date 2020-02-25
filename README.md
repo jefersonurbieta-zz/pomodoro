@@ -126,7 +126,7 @@ Project Link: [https://github.com/JefersonUrbieta/pomodoro](https://github.com/J
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Thalita Ribeiro](https://github.com/thalita12) for help and support
+* [Thalita Oliveira](https://github.com/thalita12) for help and support
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

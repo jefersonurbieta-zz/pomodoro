@@ -8,7 +8,7 @@
         <v-spacer/>
         <v-col class="text-center me"
                cols="4">
-            <i class="fab fa-github"></i> View on GitHub
+            <a class="me" href="https://github.com/JefersonUrbieta/pomodoro"><i class="fab fa-github"></i> View on GitHub</a>
         </v-col>
         <v-spacer/>
         <v-col class="text-right me"
@@ -26,8 +26,8 @@
 
 <style scoped>
     .me {
-        color: rgba(255,255,255,.4);
-        font-size: .8em;
+        color: rgba(255,255,255,.4)!important;
+        font-size: .8em!important;
     }
 
     .heart {
