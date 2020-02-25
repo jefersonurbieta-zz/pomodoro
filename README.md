@@ -26,7 +26,7 @@
   <p align="center">
     An awesome application of the pomodoro technique!
     <br />
-    <a href="https://github.com/JefersonUrbieta/pomodoro">View Demo</a>
+    <a href="https://jefersonurbieta.github.io/pomodoro">View Demo</a>
     ·
     <a href="https://github.com/JefersonUrbieta/pomodoro/issues">Report Bug</a>
     ·
@@ -63,7 +63,7 @@ I was very excited about the projects, because the ideas in it are very good for
 Looking at more of the [Florin Pop](https://github.com/florinpop17) repositories I discovered this [100Days100Projects](https://github.com/florinpop17/100Days100Projects) and I felt challenged to embark on this challenge.
 From then on, I started to develop some of the ideas from the [App Ideas Collection](https://github.com/florinpop17/app-ideas) repository in order to meet the challenge [100Days100Projects](https://github.com/florinpop17/100Days100Projects).
 
-This project was developed on day 1 of the challenge # 100Days100Projects
+This project was developed on day 1 of the challenge #100Days100Projects
 
 ### Idea from App Ideas Collection
 
@@ -101,14 +101,14 @@ For the development of this application we have the prerequisite
 
 1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/JefersonUrbieta/pomodoro.git
 ```
 2. Install NPM packages
 ```sh
 npm install
 ```
 4. Compile and run the project
-```JS
+```sh
 npm run serve
 ```
 
